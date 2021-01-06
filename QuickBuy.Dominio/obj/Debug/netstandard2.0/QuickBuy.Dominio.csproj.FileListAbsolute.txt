@@ -1,0 +1,9 @@
+C:\Users\mntakayama\Documents\repos\.net\testes\QuickBuy\QuickBuy.Dominio\bin\Debug\netstandard2.0\QuickBuy.Dominio.deps.json
+C:\Users\mntakayama\Documents\repos\.net\testes\QuickBuy\QuickBuy.Dominio\bin\Debug\netstandard2.0\QuickBuy.Dominio.dll
+C:\Users\mntakayama\Documents\repos\.net\testes\QuickBuy\QuickBuy.Dominio\bin\Debug\netstandard2.0\QuickBuy.Dominio.pdb
+C:\Users\mntakayama\Documents\repos\.net\testes\QuickBuy\QuickBuy.Dominio\obj\Debug\netstandard2.0\QuickBuy.Dominio.csprojAssemblyReference.cache
+C:\Users\mntakayama\Documents\repos\.net\testes\QuickBuy\QuickBuy.Dominio\obj\Debug\netstandard2.0\QuickBuy.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\mntakayama\Documents\repos\.net\testes\QuickBuy\QuickBuy.Dominio\obj\Debug\netstandard2.0\QuickBuy.Dominio.AssemblyInfoInputs.cache
+C:\Users\mntakayama\Documents\repos\.net\testes\QuickBuy\QuickBuy.Dominio\obj\Debug\netstandard2.0\QuickBuy.Dominio.AssemblyInfo.cs
+C:\Users\mntakayama\Documents\repos\.net\testes\QuickBuy\QuickBuy.Dominio\obj\Debug\netstandard2.0\QuickBuy.Dominio.dll
+C:\Users\mntakayama\Documents\repos\.net\testes\QuickBuy\QuickBuy.Dominio\obj\Debug\netstandard2.0\QuickBuy.Dominio.pdb
