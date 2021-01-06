@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bnjLnCeJqN21WevPT1lsmW+Nr10z5XzVm9+/3sE5pWACT0+E0ISaZZSYr5mJyyrxg+aHGVozE0xPicqLrU++WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mntakayama\\Documents\\repos\\.net\\testes\\QuickBuy\\QuickBuy.Repositorio\\QuickBuy.Repositorio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mntakayama\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mntakayama\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
