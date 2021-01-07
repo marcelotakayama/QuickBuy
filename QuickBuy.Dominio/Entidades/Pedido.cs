@@ -1,6 +1,7 @@
 ﻿using QuickBuy.Dominio.ObjetoDeValor;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 //space QuickBuy.Dominio.Entidades
@@ -21,5 +22,15 @@ namespace QuickBuy.Dominio.Entidades {
         public FormaPagamento FormaPagamento { get; set; }
 
         public ICollection<ItemPedido> ItensPedido { get; set; }
+
+        public override void Validate() {
+            LimparMensagensValidacao();
+
+            if (!ItensPedido.Any())
+                AdicionarCritica("Crítica - Item de pedido não pode ficar vazio");            
+            
+            if (string.IsNullOrEmpty(CEP))
+                AdicionarCritica("Crítica - CEP deve estar preenchido");
+        }
     }
 }
