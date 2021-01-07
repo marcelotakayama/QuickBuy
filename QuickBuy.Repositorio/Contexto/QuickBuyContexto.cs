@@ -17,7 +17,7 @@ namespace QuickBuy.Repositorio.Contexto {
 
         public QuickBuyContexto(DbContextOptions options) : base(options) {
         }
-
+        //teste
         protected override void OnModelCreating(ModelBuilder modelBuilder) {
             modelBuilder.ApplyConfiguration(new UsuarioConfiguration());
             modelBuilder.ApplyConfiguration(new ProdutoConfiguration());
