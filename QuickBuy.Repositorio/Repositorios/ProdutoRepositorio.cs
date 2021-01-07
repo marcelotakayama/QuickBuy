@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace QuickBuy.Repositorio.Repositorios {
+    //teste
     class ProdutoRepositorio : BaseRepositorio<Produto>, IProdutoRepositorio {
     }
 }
