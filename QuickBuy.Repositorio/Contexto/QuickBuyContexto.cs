@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
+//Inicio da implementação dos contextos
 namespace QuickBuy.Repositorio.Contexto {
     public class QuickBuyContexto : DbContext {
         public DbSet<Usuario> Usuarios { get; set; }
