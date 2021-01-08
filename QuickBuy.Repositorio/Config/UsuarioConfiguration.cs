@@ -8,7 +8,7 @@ using System.Text;
 namespace QuickBuy.Repositorio.Config {
     public class UsuarioConfiguration : IEntityTypeConfiguration<Usuario> {
         public void Configure(EntityTypeBuilder<Usuario> builder) {
-            throw new NotImplementedException();
+            builder.HasKey(u => u.Id);
         }
     }
 }
